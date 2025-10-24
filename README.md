@@ -39,7 +39,7 @@
 
 ### 🌐 Conectá conmigo
 <p align="center">
-  <a href="www.linkedin.com/in/kevin-rodrigo-wawryniuk-70447a352">
+  <a href="https://www.linkedin.com/in/kevin-rodrigo-wawryniuk-70447a352/">
    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/KevinRodigoWawryniuk?tab=repositories">
