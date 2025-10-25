@@ -29,14 +29,6 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinRodrigoWawryniuk&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinRodrigoWawryniuk&layout=compact&theme=tokyonight" height="165">
-</p>
-
----
-
 ### 🌐 Conectá conmigo
 <p align="center">
   <a href="https://www.linkedin.com/in/kevin-rodrigo-wawryniuk-70447a352/">
