@@ -54,9 +54,6 @@
 
 ### 🕯️ Inspiración
 > “Del vacío surge la forma; del silencio, la creación.”  
-> — *Reflejando el equilibrio entre el código y el arte.*
-
----
 
 <p align="center">
   <sub>✨ Perfil desarrollado con pasión por <b>Kevin Rodrigo Wawryniuk</b> | 2025</sub>
