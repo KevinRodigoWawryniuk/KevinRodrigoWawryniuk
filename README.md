@@ -63,4 +63,13 @@
   <a href="https://www.linkedin.com/in/kevin-rodrigo-wawryniuk-70447a352/">
    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/KevinRodigoWawryniu
+  <a href="https://github.com/KevinRodigoWawryniuk?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.fiverr.com/TU_USUARIO">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+  </a>
+  <a href="https://TU-PORTAFOLIO-REAL.com">
+    <img src="https://img.shields.io/badge/Portafolio-24292e?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+</p>
