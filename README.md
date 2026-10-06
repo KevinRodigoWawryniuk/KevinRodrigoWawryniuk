@@ -5,12 +5,13 @@
 🎨 Estudiante de Diseño Gráfico · 🐧 Usuario de Debian · 🌿 Software libre
 </p>
 
-<p align="center">📍 Posadas, Misiones, Argentina</p>
+<p align="center">📍 Posadas, Misiones, Argentina · 💼 Abierto a oportunidades y trabajo freelance</p>
 
 ---
 
 ### 🧠 Sobre mí
 - 🚀 Apasionado por crear experiencias interactivas y aplicaciones modernas.
+- 💼 Buscando mi primera oportunidad como **desarrollador de software** (C# / .NET / Blazor). También acepto proyectos freelance.
 - 🌐 Desarrollo web con **C#, Blazor** y sitios estáticos (HTML, CSS y JavaScript).
 - 🎮 Pasando de Unity a **Godot**: mi objetivo a largo plazo es desarrollar un **metroidvania 2D a gran escala**, inspirado en *Hollow Knight*.
 - 🎨 Estudio diseño gráfico, así que cuido tanto el código como la parte visual de cada proyecto.
@@ -32,6 +33,16 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+### 🎨 Diseño y creatividad
+<p align="center">
+  <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scribus-40A0D9?style=for-the-badge&logo=scribus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kdenlive-527EB2?style=for-the-badge&logo=kdenlive&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"/>
+</p>
+
 ### 🐧 Mi entorno
 <p align="center">
   <img src="https://img.shields.io/badge/Debian_13-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
@@ -41,9 +52,9 @@
 ---
 
 ### 🎯 En lo que estoy trabajando
-- 🕹️ Aprendiendo **Godot** y armando las bases de mi metroidvania 2D.
 - 🌐 Mi portafolio web y proyectos en Blazor.
 - 🎨 Proyectos de diseño gráfico de mi carrera.
+- 🕹️ Aprendiendo **Godot** y armando las bases de mi metroidvania 2D.
 
 ---
 
@@ -52,15 +63,4 @@
   <a href="https://www.linkedin.com/in/kevin-rodrigo-wawryniuk-70447a352/">
    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/KevinRodigoWawryniuk?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://TU-PORTAFOLIO-REAL.com">
-    <img src="https://img.shields.io/badge/Portafolio-24292e?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 🕯️ Inspiración
-> “Del vacío surge la forma; del silencio, la creación.”
+  <a href="https://github.com/KevinRodigoWawryniu
