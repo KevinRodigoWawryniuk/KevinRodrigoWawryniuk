@@ -35,12 +35,10 @@
 
 ### 🎨 Diseño y creatividad
 <p align="center">
-  <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scribus-40A0D9?style=for-the-badge&logo=scribus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kdenlive-527EB2?style=for-the-badge&logo=kdenlive&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArtCraft-00BCD4?style=for-the-badge&logoColor=white"/>
 </p>
 
 ### 🐧 Mi entorno
